@@ -15,7 +15,7 @@
 # Deploy on heroku
 
 
-<a href="https://dashboard.heroku.com/new?template=https://github.com/Gurubhai1234/Restrict">
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Gurubhai1234/Restricted_apnijanta">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 
